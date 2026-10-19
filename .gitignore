@@ -1,0 +1,27 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Virtual environments
+.venv/
+venv/
+env/
+
+# Environment variables / secrets
+.env
+
+# Testing / cache
+.pytest_cache/
+.coverage
+
+# Operating system files
+.DS_Store
+Thumbs.db
+
+# Raw dataset files
+data/raw/*.csv

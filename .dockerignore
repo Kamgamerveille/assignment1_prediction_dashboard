@@ -1,0 +1,15 @@
+.git
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+notebooks/
+.venv/
+venv/
+env/
+.env
+data/raw/
+
+# Local/editor/cache files
+.vscode/
+.pytest_cache/
+.DS_Store
